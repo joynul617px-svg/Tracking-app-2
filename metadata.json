@@ -1,0 +1,6 @@
+{
+  "name": "AI Body Tracking Video Editor",
+  "description": "AI-powered video editor with real human body tracking, virtual camera follow, background segmentation, filters, HSL controls, and 4K export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
